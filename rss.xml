@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[capital]]></title>
         <description><![CDATA[capital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/capital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:07:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 21:27:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/capital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://blogs-images.forbes.com/ilyapozin/files/2014/12/iStock_000037213638Medium.jpg">]]></description>
             <link>http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/#226a759539b9</link>
             <guid isPermaLink="false">b173fae0-9ff6-4733-aeaf-5ac2c7c93525</guid>
             <pubDate>Sat, 02 Apr 2016 21:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SEC Chair Mary Jo White Addresses the Challenges of Fintech, Pre-IPO Finance in the Heart of Silicon Valley - Crowdfund Insider]]></title>
+            <description><![CDATA[<article><h1>SEC Chair Mary Jo White Addresses the Challenges of Fintech, Pre-IPO Finance in the Heart of Silicon Valley - Crowdfund Insider</h1><p>During the keynote address at Stanford's Rock Center for Corporate Governance at the event entitled "The Silicon Valley Initiative: Protecting Investments in Pre-IPO Issuers", SEC Chair Mary Jo White delivered a wide ranging speech on the challenges of operating in the internet fueled age of finance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb91aa229e93cad92fe0010dac3f23d0f886248f.jpg"></article>]]></description>
+            <link>http://www.crowdfundinsider.com/2016/03/83696-sec-chair-mary-jo-white-addresses-the-challenges-of-fintech-pre-ipo-finance-in-the-heart-of-silicon-valley/</link>
+            <guid isPermaLink="false">0a5cd21f-da2e-4eb2-9ec1-1c8a7f0b0a6d</guid>
+            <pubDate>Sat, 02 Apr 2016 21:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
