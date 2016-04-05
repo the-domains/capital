@@ -1,4 +1,4 @@
-name: Capital Formation in the 21st Century
+name: Capital
 favicon: null
 layout_spectrum: 0.15635
 typography_spectrum: 0.84726
@@ -22,8 +22,8 @@ color:
     - '#92c5f0'
     - '#fbacab'
     - '#f85553'
-  brandStrength: 0.19080359768122435
-  lightness: 0.1759946788661182
-  saturation: 0.9649478669743985
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0.5625
   rhythmicContrast: 0.8319122691173106
 purpose: []
